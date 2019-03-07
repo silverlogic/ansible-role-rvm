@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: rvm
   author: RVM
   description: The official RVM role to install and manage your ruby versions
   license: MIT
